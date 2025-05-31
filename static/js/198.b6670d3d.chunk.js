@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksupabase_google_auth_app=self.webpackChunksupabase_google_auth_app||[]).push([[198],{198:e=>{e.exports=function(){throw new Error("ws does not work in the browser. Browser clients must use the native WebSocket object")}}}]);
+//# sourceMappingURL=198.b6670d3d.chunk.js.map
